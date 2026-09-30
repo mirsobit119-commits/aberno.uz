@@ -176,14 +176,6 @@
     });
   }
 
-  /* ---------- Til tugmalari (vizual) ---------- */
-  $$(".lang button").forEach((b) =>
-    b.addEventListener("click", () => {
-      $$(".lang button").forEach((x) => x.classList.remove("is-active"));
-      b.classList.add("is-active");
-    })
-  );
-
   /* ---------- Joriy yil ---------- */
   $$("[data-year]").forEach((el) => (el.textContent = new Date().getFullYear()));
 })();
