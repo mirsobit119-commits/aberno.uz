@@ -439,6 +439,9 @@
     "«Slivochniy zavtrak» 72%": ["«Сливочный завтрак» 72%", "“Creamy Breakfast” 72%"],
     "Jumbo rulon (tissue qog'oz), stol, qutili va HoReCa salfetkalari. Assortiment va narxlar bo'yicha so'rov yuboring — menejerimiz batafsil ma'lumot beradi.": ["Джамбо-рулоны (бумага tissue), столовые, коробочные салфетки и салфетки для HoReCa. Отправьте запрос по ассортименту и ценам — менеджер расскажет подробнее.", "Jumbo rolls (tissue paper), table, boxed and HoReCa napkins. Send a request about the range and prices — our manager will give you details."],
 
+    "Katalogni yuklab olish": ["Скачать каталог", "Download catalogue"],
+    "PDF · 5 MB · rus tilida": ["PDF · 5 МБ · на русском", "PDF · 5 MB · in Russian"],
+
     /* Qadoq va o'lchamlar */
     "200 g / 500 g briket": ["брикеты 200 г / 500 г", "200 g / 500 g packs"],
     "500 g pergament briket": ["пергаментный брикет 500 г", "500 g parchment pack"],
