@@ -97,7 +97,7 @@
   const applyFilter = (cat) => {
     filters.forEach((f) => f.classList.toggle("is-active", f.dataset.filter === cat));
     products.forEach((p) => {
-      const show = cat === "all" || p.dataset.cat === cat || (cat === "export" && p.dataset.export === "true");
+      const show = cat === "all" || (p.dataset.tags || "").split(" ").includes(cat);
       p.classList.toggle("is-hidden", !show);
     });
   };
