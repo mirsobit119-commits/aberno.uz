@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200">
+  <ellipse cx="120" cy="178" rx="98" ry="10" fill="#0e2a47" opacity=".12"/>
+  <!-- saryog' bloki (folga o'ram) -->
+  <path d="M28 96 L150 70 L214 96 L92 124 Z" fill="#f6c451"/>
+  <path d="M28 96 L92 124 L92 170 L28 142 Z" fill="#e9a21b"/>
+  <path d="M92 124 L214 96 L214 142 L92 170 Z" fill="#d18a0c"/>
+  <!-- o'ram yorlig'i -->
+  <path d="M100 128 L206 104 L206 136 L100 160 Z" fill="#0e2a47"/>
+  <text x="112" y="150" font-family="Manrope, Arial, sans-serif" font-weight="800" font-size="14" fill="#fff" transform="rotate(-12.8 112 150)">ABERNO</text>
+  <text x="114" y="163" font-family="Manrope, Arial, sans-serif" font-weight="600" font-size="8" fill="#f6c451" transform="rotate(-12.8 114 163)">SARYOG' 82,5%</text>
+  <path d="M36 110 L84 132" stroke="#fff" stroke-opacity=".35" stroke-width="3"/>
+  <!-- kesilgan bo'lak -->
+  <g transform="translate(150 20)">
+    <path d="M0 40 L36 32 L56 40 L20 48 Z" fill="#fff3c4"/>
+    <path d="M0 40 L20 48 L20 64 L0 56 Z" fill="#f8dc7a"/>
+    <path d="M20 48 L56 40 L56 56 L20 64 Z" fill="#efc955"/>
+  </g>
+</svg>

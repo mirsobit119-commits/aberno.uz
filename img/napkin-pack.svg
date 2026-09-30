@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200">
+  <ellipse cx="120" cy="184" rx="96" ry="9" fill="#0e2a47" opacity=".12"/>
+  <!-- taxlangan salfetkalar to'plami -->
+  <g>
+    <path d="M30 150 L120 176 L210 150 L210 164 L120 190 L30 164 Z" fill="#d8e4f1"/>
+    <path d="M30 150 L120 124 L210 150 L120 176 Z" fill="#ffffff"/>
+  </g>
+  <g transform="translate(0 -18)">
+    <path d="M30 150 L120 176 L210 150 L210 164 L120 190 L30 164 Z" fill="#cfdcec"/>
+    <path d="M30 150 L120 124 L210 150 L120 176 Z" fill="#fbfdff"/>
+  </g>
+  <g transform="translate(0 -36)">
+    <path d="M30 150 L120 176 L210 150 L210 164 L120 190 L30 164 Z" fill="#d8e4f1"/>
+    <path d="M30 150 L120 124 L210 150 L120 176 Z" fill="#ffffff"/>
+  </g>
+  <!-- plyonka qadoq -->
+  <g transform="translate(0 -54)">
+    <path d="M30 150 L120 176 L210 150 L210 164 L120 190 L30 164 Z" fill="#e9a21b"/>
+    <path d="M30 150 L120 124 L210 150 L120 176 Z" fill="#f6c451"/>
+    <path d="M78 146 L120 134 L162 146 L120 158 Z" fill="#fff"/>
+    <text x="120" y="150" text-anchor="middle" font-family="Manrope, Arial, sans-serif" font-weight="800" font-size="9" fill="#0e2a47">ABERNO</text>
+  </g>
+  <!-- guldor naqsh -->
+  <path d="M60 128 q6 -8 12 0 q6 8 12 0" stroke="#9dbfe3" stroke-width="2" fill="none" transform="translate(0 30)"/>
+  <path d="M156 128 q6 -8 12 0 q6 8 12 0" stroke="#9dbfe3" stroke-width="2" fill="none" transform="translate(0 30)"/>
+</svg>

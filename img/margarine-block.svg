@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200">
+  <ellipse cx="120" cy="180" rx="100" ry="10" fill="#0e2a47" opacity=".12"/>
+  <!-- qandolatchilik margarini: gofrokarton quti -->
+  <path d="M24 84 L132 58 L216 84 L108 112 Z" fill="#d9b27c"/>
+  <path d="M24 84 L108 112 L108 172 L24 144 Z" fill="#c49a6c"/>
+  <path d="M108 112 L216 84 L216 144 L108 172 Z" fill="#ad8453"/>
+  <!-- lenta -->
+  <path d="M70 72 L178 98 L178 104 L70 78 Z" fill="#e9c795" opacity=".8"/>
+  <!-- yorliq -->
+  <path d="M118 124 L206 101 L206 134 L118 157 Z" fill="#fff"/>
+  <text x="126" y="144" font-family="Manrope, Arial, sans-serif" font-weight="800" font-size="12" fill="#0e2a47" transform="rotate(-14.6 126 144)">ABERNO</text>
+  <text x="128" y="155" font-family="Manrope, Arial, sans-serif" font-weight="700" font-size="7" fill="#d18a0c" transform="rotate(-14.6 128 155)">HORECA · 10 KG</text>
+  <path d="M36 108 L96 128" stroke="#fff" stroke-opacity=".25" stroke-width="3"/>
+</svg>

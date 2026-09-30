@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200">
+  <ellipse cx="120" cy="186" rx="92" ry="9" fill="#0e2a47" opacity=".12"/>
+  <!-- qadoq -->
+  <path d="M34 70 L120 40 L206 70 L206 160 L120 184 L34 160 Z" fill="#2f6fb3"/>
+  <path d="M120 40 L206 70 L206 160 L120 184 Z" fill="#245a94"/>
+  <path d="M34 70 L120 96 L206 70 L120 40 Z" fill="#4c8ad0"/>
+  <!-- chiqish teshigi -->
+  <ellipse cx="120" cy="68" rx="34" ry="10" fill="#1b4677"/>
+  <!-- chiqib turgan salfetka -->
+  <path d="M96 66 C100 30 112 18 122 14 C128 26 140 34 146 66 Z" fill="#ffffff"/>
+  <path d="M122 14 C128 26 140 34 146 66 L132 66 C130 44 126 28 122 14 Z" fill="#e6eef7"/>
+  <!-- yorliq -->
+  <path d="M48 104 L110 122 L110 150 L48 134 Z" fill="#fff" opacity=".95"/>
+  <text x="55" y="122" font-family="Manrope, Arial, sans-serif" font-weight="800" font-size="11" fill="#0e2a47" transform="rotate(16.2 55 122)">ABERNO</text>
+  <path d="M56 130 L100 143" stroke="#e9a21b" stroke-width="3" stroke-linecap="round"/>
+  <!-- naqsh -->
+  <circle cx="160" cy="110" r="14" fill="none" stroke="#6fa3dc" stroke-width="2"/>
+  <circle cx="178" cy="132" r="9" fill="none" stroke="#6fa3dc" stroke-width="2"/>
+</svg>
