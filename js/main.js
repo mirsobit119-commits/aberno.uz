@@ -91,22 +91,29 @@
     counters.forEach((el) => (el.textContent = el.dataset.count));
   }
 
-  /* ---------- Mahsulot filtri ---------- */
-  const filters = $$(".filter");
-  const products = $$(".product");
-  const applyFilter = (cat) => {
-    filters.forEach((f) => f.classList.toggle("is-active", f.dataset.filter === cat));
-    products.forEach((p) => {
-      const show = cat === "all" || (p.dataset.tags || "").split(" ").includes(cat);
-      p.classList.toggle("is-hidden", !show);
-    });
-  };
-  if (filters.length) {
-    filters.forEach((f) => f.addEventListener("click", () => applyFilter(f.dataset.filter)));
-    // products.html#food kabi havolalar uchun (sahifa ichida bosilganda ham)
+  /* ---------- Mahsulot filtri (har bir bo'lim o'z filtriga ega) ---------- */
+  const scopes = $$("[data-filter-scope]").map((scope) => {
+    const filters = $$(".filter", scope);
+    const products = $$(".product", scope);
+    const apply = (cat) => {
+      filters.forEach((f) => f.classList.toggle("is-active", f.dataset.filter === cat));
+      products.forEach((p) => {
+        const show = cat === "all" || (p.dataset.tags || "").split(" ").includes(cat);
+        p.classList.toggle("is-hidden", !show);
+      });
+    };
+    filters.forEach((f) => f.addEventListener("click", () => apply(f.dataset.filter)));
+    return { scope, apply, cats: filters.map((f) => f.dataset.filter) };
+  });
+  if (scopes.length) {
+    // products.html#margaritto kabi havolalar uchun (sahifa ichida bosilganda ham)
     const fromHash = () => {
       const hash = location.hash.replace("#", "");
-      if (hash && filters.some((f) => f.dataset.filter === hash)) applyFilter(hash);
+      const s = hash && scopes.find((x) => x.cats.includes(hash));
+      if (s) {
+        s.apply(hash);
+        s.scope.scrollIntoView({ behavior: "smooth" });
+      }
     };
     fromHash();
     window.addEventListener("hashchange", fromHash);

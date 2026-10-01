@@ -442,6 +442,83 @@
     "Katalogni yuklab olish": ["Скачать каталог", "Download catalogue"],
     "PDF · 5 MB · rus tilida": ["PDF · 5 МБ · на русском", "PDF · 5 MB · in Russian"],
 
+    /* Gigiyena mahsulotlari (Bulut, PanDoozy) */
+    "Margaritto va Smaylo yog' mahsulotlari hamda Bulut va PanDoozy gigiyena mahsulotlari — chakana, ulgurji va HoReCa uchun.": ["Масложировая продукция Margaritto и Смайло, гигиеническая продукция Bulut и PanDoozy — для розницы, опта и HoReCa.", "Margaritto and Smaylo fat products, plus Bulut and PanDoozy hygiene products — for retail, wholesale and HoReCa."],
+    "Margarin va spredlar": ["Маргарин и спреды", "Margarine and spreads"],
+    "Salfetka va gigiyena mahsulotlari": ["Салфетки и гигиеническая продукция", "Napkins and hygiene products"],
+    "Yog' mahsulotlari katalogi": ["Каталог масложировой продукции", "Fats catalogue"],
+    "PDF · rus tilida": ["PDF · на русском", "PDF · in Russian"],
+    "Bulut va PanDoozy gigiyena mahsulotlari": ["Гигиеническая продукция Bulut и PanDoozy", "Bulut and PanDoozy hygiene products"],
+    "Qog'oz salfetkalar, qog'oz sochiqlar, nam va qutili salfetkalar, tualet qog'ozi hamda HoReCa dispenserlari.": ["Бумажные салфетки, бумажные полотенца, влажные и коробочные салфетки, туалетная бумага и диспенсеры для HoReCa.", "Paper napkins, paper towels, wet wipes, boxed tissues, toilet paper and HoReCa dispensers."],
+    "Gigiyena mahsulotlari turlari": ["Виды гигиенической продукции", "Hygiene product categories"],
+    "Qog'oz salfetkalar": ["Бумажные салфетки", "Paper napkins"],
+    "Qog'oz sochiqlar": ["Бумажные полотенца", "Paper towels"],
+    "Nam salfetkalar": ["Влажные салфетки", "Wet wipes"],
+    "Qutili salfetkalar": ["Коробочные салфетки", "Boxed tissues"],
+    "Tualet qog'ozi": ["Туалетная бумага", "Toilet paper"],
+    "Dispenserlar": ["Диспенсеры", "Dispensers"],
+    "Qog'oz salfetka": ["Бумажные салфетки", "Paper napkins"],
+    "Dispenser salfetkasi": ["Салфетки для диспенсера", "Dispenser napkins"],
+    "Qog'oz sochiq": ["Бумажные полотенца", "Paper towels"],
+    "Nam salfetka": ["Влажные салфетки", "Wet wipes"],
+    "Qutili salfetka": ["Коробочные салфетки", "Boxed tissues"],
+    "Dispenser": ["Диспенсер", "Dispenser"],
+    "Soni": ["Кол-во", "Quantity"],
+    "O'lcham": ["Размер", "Size"],
+    "Tarkib": ["Состав", "Composition"],
+    "Dizayn": ["Дизайн", "Designs"],
+    "Hid": ["Аромат", "Scent"],
+    "100% tsellyuloza": ["100% целлюлоза", "100% cellulose"],
+    "Makulatura": ["Макулатура", "Recycled paper"],
+    "Viskoza 20%, poliefir 80%": ["Вискоза 20%, полиэфир 80%", "Viscose 20%, polyester 80%"],
+    "Oq, qizil, yashil, sariq": ["Белый, красный, зелёный, жёлтый", "White, red, green, yellow"],
+    "2 xil (sariq va pushti)": ["2 вида (жёлтый и розовый)", "2 kinds (yellow and pink)"],
+    "Bulut qog'oz salfetkalari": ["Бумажные салфетки Bulut", "Bulut paper napkins"],
+    "Bulut Longer salfetkalari": ["Салфетки Bulut Longer", "Bulut Longer napkins"],
+    "Bulut dekorativ salfetkalari": ["Декоративные салфетки Bulut", "Bulut decorative napkins"],
+    "Bulut rangli dekorativ salfetkalar": ["Цветные декоративные салфетки Bulut", "Bulut coloured decorative napkins"],
+    "PanDoozy salfetkalari": ["Салфетки PanDoozy в удобной упаковке", "PanDoozy napkins"],
+    "Bulut dispenser salfetkalari (Z)": ["Салфетки Bulut для диспенсера (Z)", "Bulut dispenser napkins (Z)"],
+    "Bulut dispenser salfetkalari (V)": ["Салфетки Bulut для диспенсера (V)", "Bulut dispenser napkins (V)"],
+    "Bulut dispenser salfetkalari": ["Салфетки Bulut для диспенсера", "Bulut dispenser napkins"],
+    "Bulut BIG qog'oz sochiq": ["Бумажные полотенца Bulut BIG", "Bulut BIG paper towels"],
+    "Bulut qog'oz sochiq (2 rulon)": ["Бумажные полотенца Bulut (2 рулона)", "Bulut paper towels (2 rolls)"],
+    "Bulut Premium nam salfetkalari": ["Премиум влажные салфетки Bulut", "Bulut Premium wet wipes"],
+    "Bulut nam salfetkalari": ["Влажные салфетки Bulut", "Bulut wet wipes"],
+    "Bulut bolalar nam salfetkalari": ["Детские влажные салфетки Bulut", "Bulut baby wet wipes"],
+    "Bulut zal uchun to'plam": ["Набор Bulut для зала", "Bulut table set"],
+    "Quruq va nam salfetka hamda tish kovlagich — bitta qadoqda.": ["Сухая и влажная салфетка и зубочистка — в одной упаковке.", "A dry napkin, a wet wipe and a toothpick in one pack."],
+    "Bulut Premium qutili salfetkalar": ["Премиум коробочные салфетки Bulut", "Bulut Premium boxed tissues"],
+    "Bulut avtomobil uchun qutili salfetkalar": ["Коробочные салфетки Bulut для авто", "Bulut car tissues"],
+    "Bulut universal qutili salfetkalar (kub)": ["Универсальные коробочные салфетки Bulut (куб)", "Bulut universal cube tissues"],
+    "Bulut tualet qog'ozi (vtulkali)": ["Туалетная бумага Bulut с втулкой", "Bulut toilet paper with core"],
+    "Bulut tualet qog'ozi (vtulkasiz)": ["Туалетная бумага Bulut без втулки", "Bulut coreless toilet paper"],
+    "Bulut tualet qog'ozi": ["Туалетная бумага Bulut", "Bulut toilet paper"],
+    "Bulut tualet qog'ozi (shaffof qadoq)": ["Туалетная бумага Bulut (прозрачная упаковка)", "Bulut toilet paper (clear pack)"],
+    "Bulut tualet qog'ozi (8 rulon)": ["Туалетная бумага Bulut (8 рулонов)", "Bulut toilet paper (8 rolls)"],
+    "Bulut Aroma tualet qog'ozi": ["Туалетная бумага Bulut Арома", "Bulut Aroma toilet paper"],
+    "Bulut tualet qog'ozi (60 rulon)": ["Туалетная бумага Bulut (60 рулонов)", "Bulut toilet paper (60 rolls)"],
+    "Bulut Mega Rolls (dispenser uchun)": ["Туалетная бумага Mega Rolls для диспенсера", "Bulut Mega Rolls for dispensers"],
+    "PanDoozy tualet qog'ozi (vtulkasiz)": ["Туалетная бумага PanDoozy без втулки", "PanDoozy coreless toilet paper"],
+    "PanDoozy tualet qog'ozi (vtulkali)": ["Туалетная бумага PanDoozy с втулкой", "PanDoozy toilet paper with core"],
+    "HoReCa V dispenseri": ["Диспенсер HoReCa V", "HoReCa V dispenser"],
+    "HoReCa Z dispenseri": ["Диспенсер HoReCa Z", "HoReCa Z dispenser"],
+    "HoReCa L dispenseri": ["Диспенсер HoReCa L", "HoReCa L dispenser"],
+    "MEGA Rolls uchun Premium dispenser": ["Диспенсер Премиум для MEGA Rolls", "Premium dispenser for MEGA Rolls"],
+    "Bulut V dispenser salfetkalari uchun.": ["Для салфеток Bulut для диспенсера V.", "For Bulut V dispenser napkins."],
+    "Bulut Z dispenser salfetkalari uchun.": ["Для салфеток Bulut для диспенсера Z.", "For Bulut Z dispenser napkins."],
+    "Kafe va restoranlar uchun salfetka dispenseri.": ["Диспенсер для салфеток для кафе и ресторанов.", "Napkin dispenser for cafés and restaurants."],
+    "Mega Rolls tualet qog'ozi uchun.": ["Для туалетной бумаги Mega Rolls.", "For Mega Rolls toilet paper."],
+    "Oziq-ovqat": ["Продукты питания", "Food"],
+    "10 kg quti: 1 kg × 10 yoki 2 kg × 5": ["коробка 10 кг: 1 кг × 10 или 2 кг × 5", "10 kg box: 1 kg × 10 or 2 kg × 5"],
+    "10 / 20 kg quti yoki chelak": ["коробка или ведро 10 / 20 кг", "10 / 20 kg box or bucket"],
+    "Salfetkalar va gigiyena mahsulotlari": ["Салфетки и гигиеническая продукция", "Napkins and hygiene products"],
+    "Bulut va PanDoozy brendlari ostida uy, ofis va HoReCa uchun gigiyena mahsulotlari. Salfetka xom ashyosi boshqa ishlab chiqaruvchilarga ham yetkaziladi.": ["Гигиеническая продукция под брендами Bulut и PanDoozy для дома, офиса и HoReCa. Сырьё для салфеток также поставляется другим производителям.", "Hygiene products under the Bulut and PanDoozy brands for home, office and HoReCa. Napkin base paper is also supplied to other manufacturers."],
+    "Qog'oz, dekorativ va dispenser salfetkalari": ["Бумажные, декоративные салфетки и салфетки для диспенсера", "Paper, decorative and dispenser napkins"],
+    "Nam, qutili va avtomobil salfetkalari": ["Влажные, коробочные и автомобильные салфетки", "Wet, boxed and car tissues"],
+    "Qog'oz sochiq, tualet qog'ozi va HoReCa dispenserlari": ["Бумажные полотенца, туалетная бумага и диспенсеры HoReCa", "Paper towels, toilet paper and HoReCa dispensers"],
+    "(Bulut)": ["(Bulut)", "(Bulut)"],
+
     /* Qadoq va o'lchamlar */
     "200 g / 500 g briket": ["брикеты 200 г / 500 г", "200 g / 500 g packs"],
     "500 g pergament briket": ["пергаментный брикет 500 г", "500 g parchment pack"],
@@ -484,10 +561,37 @@
   const STORAGE_KEY = "aberno-lang";
   const ATTRS = ["placeholder", "aria-label", "title"];
   const norm = (s) => s.replace(/\s+/g, " ").trim();
+
+  // Ruscha son bilan kelishish: 1 рулон, 2 рулона, 5 рулонов
+  const ruPlural = (n, one, few, many) => {
+    const m10 = n % 10, m100 = n % 100;
+    if (m10 === 1 && m100 !== 11) return one;
+    if (m10 >= 2 && m10 <= 4 && (m100 < 12 || m100 > 14)) return few;
+    return many;
+  };
+  const enNum = (s) => s.replace(/,/g, ".");
+
+  // Takrorlanuvchi qiymatlar uchun qoidalar: [regex, ruscha, inglizcha]
+  const RULES = [
+    [/^(\d+) dona$/, (m) => `${m[1]} шт`, (m) => `${m[1]} pcs`],
+    [/^(\d+) rulon$/, (m) => `${m[1]} ${ruPlural(+m[1], "рулон", "рулона", "рулонов")}`, (m) => `${m[1]} ${m[1] === "1" ? "roll" : "rolls"}`],
+    [/^([\d,]+)×([\d,]+) sm$/, (m) => `${m[1]}×${m[2]} см`, (m) => `${enNum(m[1])}×${enNum(m[2])} cm`],
+    [/^(\d+) xil dizayn$/, (m) => `${m[1]} ${ruPlural(+m[1], "дизайн", "дизайна", "дизайнов")}`, (m) => `${m[1]} designs`]
+  ];
+  const ruleFor = (s) => {
+    for (const r of RULES) { const m = s.match(r[0]); if (m) return [r, m]; }
+    return null;
+  };
+  const known = (s) => Boolean(T[norm(s)] || ruleFor(norm(s)));
+
   const tr = (orig, lang) => {
     if (lang === "uz") return orig;
-    const entry = T[norm(orig)];
-    return entry ? entry[lang === "ru" ? 0 : 1] : orig;
+    const key = norm(orig);
+    const entry = T[key];
+    if (entry) return entry[lang === "ru" ? 0 : 1];
+    const hit = ruleFor(key);
+    if (hit) return hit[0][lang === "ru" ? 1 : 2](hit[1]);
+    return orig;
   };
 
   /* ---------- Tarjima qilinadigan joylarni bir marta yig'ish ---------- */
@@ -496,14 +600,14 @@
   let node;
   while ((node = walker.nextNode())) {
     if (node.parentElement.closest("script, style")) continue;
-    if (T[norm(node.nodeValue)]) textNodes.push({ node, orig: node.nodeValue });
+    if (known(node.nodeValue)) textNodes.push({ node, orig: node.nodeValue });
   }
 
   const attrItems = [];
   ATTRS.forEach((attr) =>
     document.querySelectorAll(`[${attr}]`).forEach((el) => {
       const v = el.getAttribute(attr);
-      if (T[norm(v)]) attrItems.push({ el, attr, orig: v });
+      if (known(v)) attrItems.push({ el, attr, orig: v });
     })
   );
 
